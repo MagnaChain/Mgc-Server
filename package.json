@@ -1,5 +1,5 @@
 {
-  "name": "Mgc-Server",
+  "name": "mgc-server",
   "description": "A server for MagnaChain Wallet",
   "author": "Felix Lee",
   "version": "1.0.0",
